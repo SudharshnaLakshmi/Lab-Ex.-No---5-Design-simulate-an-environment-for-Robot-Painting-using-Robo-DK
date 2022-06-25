@@ -232,7 +232,7 @@ r.ProgSave(r"""C:/Users/Sudharshna/Documents/RoboDK""",r"""Mainprog""",True,r"""
 ```
 
 ## SIMULATION
-![output](./1.PNG)
+
 ![output](./2.PNG)
 
 ## RESULT
